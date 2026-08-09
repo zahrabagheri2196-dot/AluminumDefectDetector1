@@ -1,0 +1,14 @@
+# Python
+pycache/
+*.pyc
+
+# Models
+*.pt
+*.pth
+
+# Results
+results/*
+
+# Virtual environment
+venv/
+.env
